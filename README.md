@@ -9,12 +9,6 @@ Awarded by the Vice President of Evaluation Operations for outstanding performan
 
 ---
 
-## Author
-
-**Jeffrey Robert Lynch**  
-
----
-
 ## Splunk Integration for Business Intelligence - SplunkWhitePaper.docx
 
 - **A: Business Case**: Overview of the business entity, an online private school, that will be integrating Splunk
@@ -34,6 +28,11 @@ Awarded by the Vice President of Evaluation Operations for outstanding performan
 
 ---
 
+## Author
+
+**Jeffrey Robert Lynch**  [LinkedIn](https://www.linkedin.com/in/jeffrey-lynch-350930348)
+
+---
 ##  License
 
 This project is for educational and demonstration purposes only. For commercial use, please contact the author.
