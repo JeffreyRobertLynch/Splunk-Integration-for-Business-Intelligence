@@ -9,6 +9,12 @@ Awarded by the Vice President of Evaluation Operations for outstanding performan
 
 ---
 
+##  Splunk Course Completion Certificates
+
+Earned 15 credits from Splunk while researching this project. Certificates are included.
+
+---
+
 ## Splunk Integration for Business Intelligence - SplunkWhitePaper.docx
 
 - **A: Business Case**: Overview of the business entity, an online private school, that will be integrating Splunk
