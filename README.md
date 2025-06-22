@@ -1,6 +1,6 @@
 # Splunk-Integration-for-Business-Intelligence
 
-##  Awards
+##  Awards - award folder
 
 **Academic Excellence Award - Technical Communication, Task 1: White Paper**  
 Awarded by the Vice President of Evaluation Operations for outstanding performance in "Technical Communication, Task 1: White Paper". The evaluator shared the following:
@@ -9,15 +9,15 @@ Awarded by the Vice President of Evaluation Operations for outstanding performan
 
 ---
 
-##  Splunk Course Completion Certificates
+##  Splunk Course Completion Certificates - certs folder
 
 Earned 15 credits from Splunk while researching this project. Certificates are included.
 
 ---
 
-## Splunk Integration for Business Intelligence - SplunkWhitePaper.docx
+## Splunk Integration for Business Intelligence - paper/splunk-white-paper.pdf
 
-- **A: Business Case**: Overview of the business entity, an online private school, that will be integrating Splunk
+- **A: Organization Overview**: Overview of the business entity, an online private school, that will be integrating Splunk
 - **B: Research**: Discussion of three use cases where Splunk integration created specific value for companies
 - **C: White Paper**: Demonstrate how Splunk enhances data-driven decision-making in Business Analytics, IT Infrastructure, and Cybersecurity Operations  
 - **D: Diction**: Discussion of diction choices based on anticipated audience 
@@ -25,12 +25,12 @@ Earned 15 credits from Splunk while researching this project. Certificates are i
 
 ---
 
-## Further Portfolio Contents - Not Included
+## Executive Summary - paper/splunk-exec-summary.pdf
 
-- **F: Executive Summary**: Concise summary of White Paper contents 
-- **G: Press Release**: Press release for internal and external use 
-- **H: General Presentation**: Multimedia presentation for general audiences  
-- **I: Technical Presentation**: Multimedia presentation for technical audiences  
+- **A: Executive Summary**: Concise summary of White Paper contents 
+- **B: Press Release**: Press release for internal and external use (removed for brevity) 
+- **C: FAQ**: Frequently asked questions for stakeholders (removed for brevity) 
+- **D: References**: References for use cases   
 
 ---
 
