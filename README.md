@@ -15,6 +15,14 @@ Awarded by the Vice President of Evaluation Operations for outstanding performan
 
 Earned 15 credits from Splunk while researching this project. Certificates are included.
 
+![Fundamentals 1](certs/splunkFundamentals1.pdf)
+![Fundamentals 2](certs/splunkFundamentals2.pdf)
+![Fields](certs/splunkFields.pdf)
+![Visualizations](certs/splunkVisualizations.pdf)
+![Scheduling & Reporting](certs/splunkSchedulingReporting.pdf)
+![Time](certs/splunkTime.pdf)
+![Statistical Processing](certs/splunkStatisticalProcessing.pdf)
+
 ---
 
 ## Splunk Integration for Business Intelligence - paper/splunk-white-paper.pdf
