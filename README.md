@@ -23,7 +23,7 @@ Earned 15 credits from Splunk while researching this project. Certificates are i
 
 ![Visualizations](certs/splunkVisualizations.pdf)
 
-![Scheduling, Reports, Alerts](certs/splunkSchedulingReportsAlerts.pdf)
+![Scheduling Reports & Alerts](certs/splunkSchedulingReportsAlerts.pdf)
 
 ![Time](certs/splunkTime.pdf)
 
