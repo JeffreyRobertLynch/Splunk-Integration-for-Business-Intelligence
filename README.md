@@ -7,7 +7,7 @@ Awarded by the Vice President of Evaluation Operations for outstanding performan
 
 **“This submission shows excellence in its level of detail when describing [business case] and explaining how Splunk could help it attain greater success. Expert sources such as Vardhan (2021) provide conclusive information to support the claim that developing a better grasp of data will enable [business case] to create opportunities for expansion into underserved markets.”**
 
-![Award](main/award/Tech_Comm_Award.png)
+![Award](award/Tech_Comm_Award.pdf)
 
 ---
 
