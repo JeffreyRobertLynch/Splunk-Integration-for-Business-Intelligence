@@ -42,8 +42,8 @@ Earned 15 credits from Splunk while researching this project. Certificates are i
 
 ---
 
-## Executive Summary - paper/splunk-exec-summary.pdf
-
+## Executive Summary
+![Executive Summary](paper/splunk-exec-summary.pdf)
 - **A: Executive Summary**: Concise summary of White Paper contents 
 - **B: Press Release**: Press release for internal and external use (removed for brevity) 
 - **C: FAQ**: Frequently asked questions for stakeholders (removed for brevity) 
